@@ -1,0 +1,12 @@
+{
+  "name": "MOTD",
+  "description": "Pulls S.M.A.R.T. data from MOS's own SMART API and renders it as a single readable dashboard for every disk",
+  "category": [ "Monitoring" ],
+  "repository": "https://github.com/websterwh/smart-health-dashboard",
+  "architecture": [ "amd64", "arm64" ],
+  "driver": false,
+  "readme_url": "https://github.com/websterwh/smart-health-dashboard#readme",
+  "author": "websterwh",
+  "homepage": "https://github.com/websterwh/smart-health-dashboard",
+  "support": "https://github.com/websterwh/smart-health-dashboardissues"
+}
