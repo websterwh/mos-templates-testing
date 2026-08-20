@@ -1,5 +1,5 @@
 {
-  "name": "MOTD",
+  "name": "SMART Health Dashboard",
   "description": "Pulls S.M.A.R.T. data from MOS's own SMART API and renders it as a single readable dashboard for every disk",
   "category": [ "Monitoring" ],
   "repository": "https://github.com/websterwh/smart-health-dashboard",
